@@ -1,2 +1,2 @@
 # Backend-JS
-Contains JavaScript leaning Code for Backend Development
+Contains JavaScript learning Code for Backend Development
